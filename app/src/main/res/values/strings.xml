@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewCardDeck</string>
+    <string name="card_shuffle_msg">Click Menu to Shuffle the Cards</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
